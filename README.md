@@ -3,7 +3,7 @@ Pirâmide Lean
 
 Estratégia ágil no desenvolvimento de software com a adoção da Pirâmide Lean. Esta que é um modelo para engenharia de software que visa auxiliar as empresas a equilibrar corretamente o uso de práticas, princípios e valores em todos os níveis de uma organização.
 
-FONTE: Este artigo é baseado em meu aprendizado sobre a Pirâmide Lean ao participar do curso oferencido pela OnCast. Mais detalhes em: http://www.oncast.com.br/piramide-lean/. 
+FONTE: Este artigo é baseado em meu aprendizado sobre a Pirâmide Lean ao participar do curso oferecido pela OnCast. Mais detalhes em: http://www.oncast.com.br/piramide-lean/. 
 
 Motivação
 =============
