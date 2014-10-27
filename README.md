@@ -15,3 +15,33 @@ Motivação
 * Promover uma evolução segura e sustentável na cultura interna e nos métodos de desenvolvimento.
 
 ![Pirâmide Lean](http://www.oncast.com.br/wp-content/uploads/2014/05/piramide_white.jpg "Pirâmide Lean")
+
+O Topo
+==========
+
+* Visão
+* Cultura.
+* Princípios.
+* Valores.
+
+---
+
+O Centro
+==========
+
+* Planejamento.
+* Produtos e Projetos.
+* Gestão de portfólio.
+* Controle de produção.
+
+---
+
+A Base
+==========
+
+* Engenharia de software.
+* Processos.
+* Arquitetura.
+* Tecnologia.
+
+---
