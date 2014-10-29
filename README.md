@@ -19,7 +19,7 @@ Motivação
 O Topo (Camada de estratégia)
 ==========
 
-Princípios guiando a formação de uma cultura ágil forte e efetiva.
+Princípios guiando a formação de uma cultura ágil forte e efetiva. Foco no ser humano e geração de aprendizado contínuo.
 
 * Visão
 * Cultura.
@@ -31,23 +31,29 @@ Princípios guiando a formação de uma cultura ágil forte e efetiva.
 O Centro (Camada de gestão)
 ==========
 
-Defina execução da estratégia.
+Defina a execução da estratégia. Foco em geração de valor para o produto e controle de produção, permitindo que a empresa atinja suas metas com menor custo e menor time-to-market.
 
 * Planejamento.
+* Rastrear e tornar visível.
+* Transformar a visão do nível estratégico em objetivos mensuráveis.
 * Produtos e Projetos.
 * Gestão de portfólio.
 * Controle de produção.
+* Utilização de Scrum e Kanban para controlar valor.
+* Melhoria contínua.
 
 ---
 
 A Base (Camada de engenharia)
 ==========
 
-Implementa a estratégia com segurança.
+Implementa a estratégia com segurança. Permite responder com segurança as mudanças de negócio, mantendo um desenvolvimento de qualidade, produtividade e baixo custo.
 
 * Engenharia de software.
 * Processos.
 * Arquitetura.
 * Tecnologia.
+* Compartilhar conhecimentos.
+* Uso de ferramentas de controle de qualidade (TDD, automação de testes, testes de integração e aceitação).
 
 ---
