@@ -55,5 +55,7 @@ Implementa a estratégia com segurança. Permite responder com segurança as mud
 * Tecnologia.
 * Compartilhar conhecimentos.
 * Uso de ferramentas de controle de qualidade (TDD, automação de testes, testes de integração e aceitação).
+* Construir com integridade e simplicitade, proporsionando versatilidade para as mudanças do negócio.
+* Automação de deploy para integra rápida, segura e contínua.
 
 ---
