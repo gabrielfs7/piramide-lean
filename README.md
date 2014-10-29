@@ -16,8 +16,10 @@ Motivação
 
 ![Pirâmide Lean](http://www.oncast.com.br/wp-content/uploads/2014/05/piramide_white.jpg "Pirâmide Lean")
 
-O Topo
+O Topo (Camada de estratégia)
 ==========
+
+Princípios guiando a formação de uma cultura ágil forte e efetiva.
 
 * Visão
 * Cultura.
@@ -26,8 +28,10 @@ O Topo
 
 ---
 
-O Centro
+O Centro (Camada de gestão)
 ==========
+
+Defina execução da estratégia.
 
 * Planejamento.
 * Produtos e Projetos.
@@ -36,8 +40,10 @@ O Centro
 
 ---
 
-A Base
+A Base (Camada de engenharia)
 ==========
+
+Implementa a estratégia com segurança.
 
 * Engenharia de software.
 * Processos.
